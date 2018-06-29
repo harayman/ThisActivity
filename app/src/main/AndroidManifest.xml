@@ -16,6 +16,9 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity android:name=".Kotlin" />
+        <activity android:name=".KotinActivity" />
+        <activity android:name=".Baby"></activity>
     </application>
 
 </manifest>
